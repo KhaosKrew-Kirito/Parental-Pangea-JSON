@@ -1,0 +1,113 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 60,
+			"iconurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252105294123188/parental_pangea_logo.png?ex=69c876f5&is=69c72575&hm=0691db5b500e75cd37838a788dffd6852d8f4e9e93fba6c7bb7402eb5ab8abb0&",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252104803516466/final_ui_1.png?ex=69c876f5&is=69c72575&hm=72dd360ea1337c6192bdc49059d6143e51dc43ee9b4718252d15e83c3a2c75bc&",
+				"content": [
+					{
+						"title": "Welcome to Parental Pangea",
+						"text": "🔥 **WELCOME TO PARENTAL PANGEA** 🔥\r\n\r\nThis world was never meant to become this.\r\n\r\nOnce, everything was controlled —\r\nbalanced systems, predictable ecosystems, stable progression.\r\n\r\nThen something changed.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nThe ARK systems began to fail.\r\n\r\nNot all at once… but enough.\r\n\r\nEnough to corrupt evolution.\r\nEnough to destabilize technology.\r\nEnough to turn survival into something far more dangerous.\r\n\r\nThey call it:\r\n\r\n🩸 **PRIMAL CHAOS**\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\nCreatures no longer follow natural limits.\r\nPower comes at a cost.\r\nAnd the world itself pushes back against those who underestimate it.\r\n\r\nThis is not a place of safety.\r\n\r\nThis is a place of adaptation.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n⚔️ **WHAT YOU’RE STEPPING INTO**\r\n• A progression system shaped by Primal Chaos\r\n• A survival experience built around efficiency and balance\r\n• Systems designed to reward smart play — not excess\r\n• A cluster optimized for performance, not clutter\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🧠 **SURVIVAL HERE IS DIFFERENT**\r\n\r\nThis world doesn’t favor the biggest base.\r\nIt doesn’t reward the largest army.\r\n\r\nIt rewards those who:\r\n• Adapt quickly\r\n• Build intelligently\r\n• Respect the limits of the system\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🔥 **EVERYTHING HAS CONSEQUENCES**\r\n\r\nOverbuild, and you weaken yourself.\r\nOverfarm, and you fall behind.\r\nUnderestimate the world… and it will end you.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n💀 **THIS IS YOUR CHALLENGE**\r\n\r\nThere are no guarantees here.\r\nNo shortcuts. No safety nets.\r\n\r\nOnly opportunity.\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🔥 **SURVIVE THE CHAOS**\r\n\r\nAdapt. Build. Dominate.\r\n\r\n**Welcome to Parental Pangea.**\r\n"
+					},
+					{
+						"title": "Cluster Highlights",
+						"text": "• 10x Tame\r\n• 10x XP\r\n• 10x Harvest\r\n• Custom stat setup\r\n• Modded quality-of-life without losing the ARK feel\r\n• Discord-driven community and support"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Rules & Staff",
+				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252104253935756/final_ui_2.png?ex=69c876f5&is=69c72575&hm=ec12b6467777a7d8bb867b55316bffc0ba3022308bcff59730a789819aae63ca&",
+				"content": [
+					{
+						"title": "Server Rules",
+						"text": "⚙️ **SERVER PERFORMANCE RULES**\r\n\r\nTo keep the cluster smooth and stable for everyone, the following rules are STRICTLY enforced:\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🦖 **DINO LIMITS**\r\n• Max 300 dinos per tribe\r\n• Max 20 breeders per species\r\n• No excessive mutation stacking farms\r\n• Store unused dinos in Dino Depot\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🏗️ **BASE LIMITS**\r\n• No mega-bases or unnecessary structure spam\r\n• Avoid building in high-traffic areas (Obelisks, Spawn Zones)\r\n• Limit excessive foundations/ceilings\r\n• Clean up abandoned builds\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n⚡ **AUTOMATION RULES**\r\n• Limit Automated Ark / Arkomatic machines\r\n• No mass generators running 24/7\r\n• No excessive item loops or farm exploits\r\n• Turn off systems when not in use\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🐣 **BREEDING RULES**\r\n• No mass egg spam or hatch spam\r\n• Hatch only what you need\r\n• Clean up eggs immediately\r\n• No unattended large-scale breeding\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🔥 **PROHIBITED (LAG CAUSING)**\r\n• Structure spam (pillars, spam builds)\r\n• Excessive turrets outside PvP zones\r\n• Large item drops left on ground\r\n• Intentional lag/crash setups\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🧹 **CLEANUP POLICY**\r\n• Inactive bases/dinos may be wiped\r\n• Lag-causing setups will be removed WITHOUT warning\r\n• Repeat offenders may be banned\r\n\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n\r\n🔥 Respect the server. Respect performance. Keep it smooth.\r\n"
+					},
+					{
+						"title": "Admin Team",
+						"text": "Kirito (Khaos_Kirito)"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Rates & Progression",
+				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252103700156458/final_ui_3.png?ex=69c876f5&is=69c72575&hm=b025abb6c68da8a742d3caa0ecab86dbc177f93f9d5b86d2455226a7901fabed&",
+				"content": [
+					{
+						"title": "Server Rates",
+						"text": "10x Tame\r\n10x XP\r\n10x Harvest\r\n\r\nCustom stats are enabled.\r\nOnly place 1 point into Fortitude and Carry Weight."
+					},
+					{
+						"title": "Progression Notes",
+						"text": "Primal Chaos drives the main progression path.\r\nVanilla with Sprinkles, Automated Ark, ARKomatic, and Cybers Structures add major quality-of-life improvements.\r\nStarter Kits, Shop & Missions, and admin utilities support smoother early and mid-game progression."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Mod Collection",
+				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252103188582471/final_ui_4.png?ex=69c876f5&is=69c72575&hm=f52a9e896c3484401ff0751a9a256cf4b89300ac822ae74494e01cd9790581c5&",
+				"content": [
+					{
+						"title": "Installed Mods (Exact Mapping)",
+						"text": "Core Overhaul\r\n1. Primal Chaos [932714]\r\n2. Vanilla with Sprinkles [1188679]\r\n\r\nQoL, Progression & Utility\r\n1. Better Traits (NO DLC REQUIRED) [1099220]\r\n2. Level Up Consumables (Engram Unlocker + Ascender) [1110952]\r\n3. Auto Engrams! [953154]\r\n4. Custom Dino Levels [928708]\r\n5. Flyer Seatbelts [929811]\r\n6. Loot Grabber [935985]\r\n7. Der Dino Finder [935408]\r\n8. MarniiMods Hairstyles [949521]\r\n9. Nanoh's Spyglass [949623]\r\n10. Awesome Teleporters! [950914]\r\n11. Mining Drill (Cross-Platform) [955623]\r\n12. Shiny! Dinos Ascended [928548]\r\n13. Nanoh's Ascended Equipment [963051]\r\n14. WBUI2 [931119]\r\n\r\nBuilding, Storage & Automation\r\n1. Dino Depot [942024]\r\n2. Imbue and Upgrade Station [929543]\r\n3. Arkitect Structures Remastered [931874]\r\n4. Resource Gatherers [932365]\r\n5. Upgrade Station [930494]\r\n6. Omega Dino Storage V2 [934343]\r\n7. Automated Ark [928597]\r\n8. ARKomatic [939055]\r\n9. Cybers Structures QoL+ (Crossplay) [940975]\r\n10. Auto Crop Plot | Gaia Studios [941467]\r\n11. Auto Storage | Gaia Studios [946494]\r\n\r\nBreeding, Admin & Economy\r\n1. Crazy's Crazy Ascended Potions [932975]\r\n2. Admin Commands | Gaia Studios [936457]\r\n3. Better Breeding [941697]\r\n4. Starter Kits | Gaia Studios [931607]\r\n5. Kavan's Shop & Missions [932943]"
+					},
+					{
+						"title": "Featured Mods",
+						"text": "Primal Chaos\r\nVanilla with Sprinkles\r\nCybers Structures QoL+ (Crossplay)\r\nAutomated Ark\r\nARKomatic\r\nDino Depot\r\nKavan's Shop & Missions\r\nAwesome Teleporters!\r\nShiny! Dinos Ascended\r\nUpgrade Station"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Community",
+				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252102685393107/final_ui_5.png?ex=69c876f5&is=69c72575&hm=551aadf17d69ba6146b61cabb2a5e323052690ea00a00b25a6f4bd2500a50581&",
+				"content": [
+					{
+						"title": "Parental Advisory",
+						"text": "Join the Parental Advisory Discord community:\r\n\r\nhttps://discord.gg/parentaladvisory"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Support",
+				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252102135812257/final_ui_6.png?ex=69c876f4&is=69c72574&hm=7000a21e05dc2bc82dc10be01a8df0cba650cf9ab97b7f3f771dc991720ee0a9&",
+				"content": [
+					{
+						"title": "Bug Report",
+						"text": "https://tally.so/r/dWlzJd"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Community Discord",
+				"url": "https://discord.gg/parentaladvisory"
+			},
+			{
+				"text": "Cluster Support",
+				"url": "https://tally.so/r/dWlzJd"
+			}
+		],
+		"version": 2
+	}
+}
