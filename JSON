@@ -6,7 +6,7 @@
 			"openbutton": 0,
 			"hideicon": true,
 			"hideiconafter": 60,
-			"iconurl": "https://github.com/KhaosKrew-Kirito/Parental-Pangea-JSON/blob/main/parental_pangea_logo.png?raw=true",
+			"iconurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252105294123188/parental_pangea_logo.png?ex=69c876f5&is=69c72575&hm=0691db5b500e75cd37838a788dffd6852d8f4e9e93fba6c7bb7402eb5ab8abb0&",
 			"disableicontext": true,
 			"iconposition": 0,
 			"icontextcolor": 0,
@@ -18,7 +18,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Welcome",
-				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252104803516466/final_ui_1.png?ex=69c876f5&is=69c72575&hm=72dd360ea1337c6192bdc49059d6143e51dc43ee9b4718252d15e83c3a2c75bc&",
+				"imageurl": "https://github.com/KhaosKrew-Kirito/Parental-Pangea-JSON/blob/main/welcome.png?raw=true",
 				"content": [
 					{
 						"title": "Welcome to Parental Pangea",
@@ -33,7 +33,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Rules & Staff",
-				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252104253935756/final_ui_2.png?ex=69c876f5&is=69c72575&hm=ec12b6467777a7d8bb867b55316bffc0ba3022308bcff59730a789819aae63ca&",
+				"imageurl": "https://github.com/KhaosKrew-Kirito/Parental-Pangea-JSON/blob/main/rules&staff.png?raw=true",
 				"content": [
 					{
 						"title": "Server Rules",
@@ -48,7 +48,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Rates & Progression",
-				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252103700156458/final_ui_3.png?ex=69c876f5&is=69c72575&hm=b025abb6c68da8a742d3caa0ecab86dbc177f93f9d5b86d2455226a7901fabed&",
+				"imageurl": "https://github.com/KhaosKrew-Kirito/Parental-Pangea-JSON/blob/main/rates&progression.png?raw=true",
 				"content": [
 					{
 						"title": "Server Rates",
@@ -63,7 +63,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Mod Collection",
-				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252103188582471/final_ui_4.png?ex=69c876f5&is=69c72575&hm=f52a9e896c3484401ff0751a9a256cf4b89300ac822ae74494e01cd9790581c5&",
+				"imageurl": "https://github.com/KhaosKrew-Kirito/Parental-Pangea-JSON/blob/main/collection.png?raw=true",
 				"content": [
 					{
 						"title": "Installed Mods (Exact Mapping)",
@@ -78,7 +78,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Community",
-				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252102685393107/final_ui_5.png?ex=69c876f5&is=69c72575&hm=551aadf17d69ba6146b61cabb2a5e323052690ea00a00b25a6f4bd2500a50581&",
+				"imageurl": "https://github.com/KhaosKrew-Kirito/Parental-Pangea-JSON/blob/main/pa.png?raw=true",
 				"content": [
 					{
 						"title": "Parental Advisory",
@@ -89,7 +89,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Support",
-				"imageurl": "https://cdn.discordapp.com/attachments/1019484630052765737/1487252102135812257/final_ui_6.png?ex=69c876f4&is=69c72574&hm=7000a21e05dc2bc82dc10be01a8df0cba650cf9ab97b7f3f771dc991720ee0a9&",
+				"imageurl": "https://github.com/KhaosKrew-Kirito/Parental-Pangea-JSON/blob/main/support.png?raw=true",
 				"content": [
 					{
 						"title": "Bug Report",
