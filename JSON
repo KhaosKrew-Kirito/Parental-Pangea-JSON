@@ -87,13 +87,17 @@
 				]
 			},
 			{
-				"layout": 1,
+				"layout": 2,
 				"buttontext": "Support",
 				"imageurl": "https://github.com/KhaosKrew-Kirito/Parental-Pangea-JSON/blob/main/support.png?raw=true",
 				"content": [
 					{
 						"title": "Bug Report",
-						"text": "https://tally.so/r/dWlzJd"
+						"text": "https://tally.so/r/dWlzJd\r\n\r\nor click the button below"
+					},
+					{
+						"title": "Donations",
+						"text": "Want to help Keep the servers running feel free to click the donation button below"
 					}
 				]
 			}
@@ -106,6 +110,14 @@
 			{
 				"text": "Cluster Support",
 				"url": "https://tally.so/r/dWlzJd"
+			},
+			{
+				"text": "Bug Reports",
+				"url": "https://tally.so/r/dWlzJd"
+			},
+			{
+				"text": "Donations",
+				"url": "https://server.nitrado.net/donations/donate/12784634"
 			}
 		],
 		"version": 2
